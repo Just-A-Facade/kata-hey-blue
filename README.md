@@ -1,4 +1,8 @@
-# Architectural Katas - Hey Blue
+# Architectural Kata Spring 2022 - Just A Façade
 
-This repo contains the solution from the team "Just A Façade" for the O'Reilly architectural kata for Fall 2022.
-
+## Table of Contents
+  * [About Us](about.md)
+  * [Glossary](glossary.md)
+  * [Problem Analysis](problem/README.md)
+  * [Solution](solution/README.md) 
+  * [Resources](resources.md)

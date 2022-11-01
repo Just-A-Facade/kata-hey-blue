@@ -11,10 +11,10 @@ performance    responsiveness    availability    fault-tolerance    testability 
  
 ### Driving Architecture Characteristics
 
-| Top 3 | Characteristic               | Considerations                                                                  |
-|       | ---------------------------- | --------------------------------------------------------------------------------|
-|       | performance                  | A high number of cuncurrent interactions shall be expected                      |
-| X     | responsiveness               | The platform shall be responsive in notifying the opportunity of an interaction |
+| Top 3 | Characteristic               | Considerations                                                                   |
+| ----- | ---------------------------- | -------------------------------------------------------------------------------- |
+|       | performance                  | A high number of cuncurrent interactions shall be expected                       |
+| X     | responsiveness               | The platform shall be responsive in notifying the opportunity of an interaction  |
 | X     | availability                 | The platform shall guarantee no downtime in order to maximize the chances of an interaction |
 |       | fault-tolerance              | The platform consists of many different aspects (interactions, points management, purchases, analytics) and so it must be prevented that error propagations take the whole system down. |  
 |       | scalability                  | Some domains such as analytics, notification, interactions likely to require more resources at different times |

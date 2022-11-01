@@ -11,15 +11,15 @@ performance    responsiveness    availability    fault-tolerance    testability 
  
 ### Driving Architecture Characteristics
 
-| Characteristic               | Considerations                                                                  |
-| ---------------------------- | --------------------------------------------------------------------------------|
-| performance                  | A high number of cuncurrent interactions shall be expected                      |
-| *responsiveness*             | The platform shall be responsive in notifying the opportunity of an interaction |
-| *availability*               | The platform shall guarantee no downtime in order to maximize the chances of an interaction |
-| fault-tolerance              | The platform consists of many different aspects (interactions, points management, purchases, analytics) and so it must be prevented that error propagations take the whole system down. |  
-| scalability                  | Some domains such as analytics, notification, interactions likely to require more resources at different times |
-| *data integrity*             | The platform shall guarantee the correctness of data (points, users, goods) |  
-| data consistency             | A transactional behaviour shall be guaranteed when transfering and reedeming points |
+|Top 3| Characteristic               | Considerations                                                                  |
+|     | ---------------------------- | --------------------------------------------------------------------------------|
+|     | performance                  | A high number of cuncurrent interactions shall be expected                      |
+| X   | responsiveness               | The platform shall be responsive in notifying the opportunity of an interaction |
+| X   | availability                 | The platform shall guarantee no downtime in order to maximize the chances of an interaction |
+|     | fault-tolerance              | The platform consists of many different aspects (interactions, points management, purchases, analytics) and so it must be prevented that error propagations take the whole system down. |  
+|     | scalability                  | Some domains such as analytics, notification, interactions likely to require more resources at different times |
+| X   | data integrity               | The platform shall guarantee the correctness of data (points, users, goods) |  
+|     | data consistency             | A transactional behaviour shall be guaranteed when transfering and reedeming points |
 
 ### Implicit Architecture Characteristics
 

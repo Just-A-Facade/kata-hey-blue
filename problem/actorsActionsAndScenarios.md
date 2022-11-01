@@ -5,7 +5,7 @@
 * Civilians
 * Police Officers
 * Charities
-* Retail Organization
+* Businesses
 
 ## Actions
 

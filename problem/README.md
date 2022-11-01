@@ -4,12 +4,11 @@
 
 * Background
 * Business Goals 
-* Engagement Models
 * Functional Requirements
 
 [Architecture Exploration](architectureExploration.md)
 
-* Architecture characteristics (-ilities, NFR)
+* Architecture characteristics
 * Architectural Quanta
 
 [Actors, Actions & Scenarios](actorsActionsAndScenarios.md)
@@ -20,5 +19,5 @@
 
 [Constraints and Assumptions](constraintsAndAssumptions.md)
 
-* Known constraints
+* Constraints
 * Assumptions

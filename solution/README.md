@@ -15,7 +15,7 @@
 
 [Architecture Analysis](architectureAnalysis.md)
 
-- Architecture Comparison (based on -ilities, compare architecture models) (https://www.developertoarchitect.com/downloads/worksheets.html)
+- Architecture Comparison (based on -ilities, compare architecture models)
 - Architecture Analysis (overall analyse best match)
 - Conclusion
 

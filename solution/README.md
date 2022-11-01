@@ -29,4 +29,4 @@
 
  * Reccomend iterations and MVP scope
 
-[ADRs](../adrs/README.md)
+[Architecture Decision Records](../adrs/)

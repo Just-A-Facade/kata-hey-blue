@@ -1,4 +1,4 @@
-# Architectural Kata Spring 2022 - Just A Façade
+# Architectural Kata Fall 2022 - Just A Façade
 
 > **_NOTE:_**  
 Dear O'Reilly Architecture Katas jury,  
